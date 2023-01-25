@@ -337,7 +337,6 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/CustomBullet.cs"
 "Assets/EffectExamples/Shared/Scripts/DecalDestroyer.cs"
 "Assets/EffectExamples/Shared/Scripts/ExtinguishableFire.cs"
 "Assets/EffectExamples/Shared/Scripts/GunAim.cs"
@@ -346,10 +345,12 @@
 "Assets/EffectExamples/Shared/Scripts/ParticleExamples.cs"
 "Assets/EffectExamples/Shared/Scripts/ParticleMenu.cs"
 "Assets/EffectExamples/TutorialInfo/Scripts/Readme.cs"
-"Assets/GunSystem.cs"
-"Assets/ProjectileGun.cs"
+"Assets/Script/CustomBullet.cs"
+"Assets/Script/EnemyAi.cs"
+"Assets/Script/GunSystem.cs"
 "Assets/Script/MouseLook.cs"
 "Assets/Script/PlayerMovement.cs"
+"Assets/Script/ProjectileGun.cs"
 -langversion:9.0
 
 /deterministic
